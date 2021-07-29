@@ -1,0 +1,59 @@
+body class: hidden{ margin:0;
+      background-color: #ffffff; }
+#container class:hidden{ background-color: #eeeeee;
+             color: #006600;
+             min-width: 960px;
+             font-family: Verdana, Arial, sans-serif; }
+#header class: hidden{ color: #cc66cc;
+        background-color: #636631; 
+        border-bottom: 2px solid #000000;
+		text-align: right;
+        height: 120px;
+        background-image: url(showybg.jpg);
+		background-position: bottom; 
+		background-repeat: repeat-x;
+        padding: 0 20px; }
+#nav class: hidden{ float: left;
+       width: 150px; }
+#sidebar class:hidden { float: right;
+          width: 200px;  }
+#center class: hidden { margin: 0 210px 0 160px;
+          padding: 1px 10px 20px 10px;
+          background-color: #ffffff;
+          color: #006600; }
+#footer class:hidden { font-size: .70em;
+          text-align: center;
+          color: #006600;
+          background-color: #ffffff;
+          padding-top: 10px; 
+		  clear: both; } 
+#header a class: hidden{ font-size: .80em; }
+#header a:link, #header a:visited class: hidden{ color: #ffffff; }
+#header a:focus, #header a:hover class: hidden{ color: #eeeeee; }	  
+h1 class: hidden{ margin-top: 0;
+     font-size: 3em; 
+	 text-align: left;
+	 text-shadow: 2px 2px 2px #000000;}
+#nav ul class: hidden{ margin-top: 20px;
+          list-style-type: none; }
+#nav a class: Hidden{ text-decoration: none; 
+         font-size: 1.2em; }
+#nav a:link class: hidden{ color:#006600;}
+#nav a:visited class:hidden { color: #003300; }
+#nav a:focus, #nav a:hover class:hidden { color: #cc66cc; }
+#nav a:active class: hidden {  color: #000000;}
+#nav img class: hidden { margin: 30px;}
+#center p class: hidden{ margin: 20px; } 
+#center h2, #center h3 class: hidden{ color: #cc66cc;
+   			             background-color: #ffffff; }
+#floatright class: hidden{ margin: 10px;
+        	  float: right; } 
+#sidebar h3 class: hidden{ padding-bottom: 2px;
+              border-bottom: 1px solid #000000;
+              margin: 10px;
+			  font-size: .90em;
+              color: #cc66cc;
+              background-color: #eeeeee; }
+.news { font-size: .80em;
+            margin: 10px; }
+
